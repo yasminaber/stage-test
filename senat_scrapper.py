@@ -10,7 +10,7 @@ import csv
 import datetime
 from dateutil.parser import parse
 
-
+#comment
 url = 'http://www.senat.fr/communiques/'
 
 
